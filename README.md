@@ -3,7 +3,7 @@
 <h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" align="center" width="30"/> I'm <b>Priyanshu Singh</b></h1>
 <h3 align="center">A passionate Front-End Developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321238.png" align="center" height="20" width="20"/> <b>India</b> </h3>
 
-<img align="right" alt="coder" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif" style="border-radius: 50%;">
+<img align="right" alt="coder" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanxshu&label=Profile%20views&color=0e75b6&style=flat" alt="priyanxshu" /> </p>
