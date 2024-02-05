@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-<h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" align="center" width="30"/> I'm <b>Priyanshu Singh</b></h1>
+<h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" align="center" width="30"/> I am <b>Priyanshu Singh</b></h1>
 <h3 align="center">A passionate Front-End Developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321238.png" align="center" height="20" width="20"/> <b>India</b> </h3>
 
 <img align="right" alt="coder" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif">
