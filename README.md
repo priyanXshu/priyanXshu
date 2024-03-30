@@ -3,10 +3,10 @@
 <h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" align="center" width="30"/> I am <b>Priyanshu Singh</b></h1>
 <h3 align="center">A passionate Front-End Developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321238.png" align="center" height="20" width="20"/> <b>India</b> </h3>
 
-<img align="right" alt="coder" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+<img align="right" alt="coder" width="350" src="https://github-production-user-asset-6210df.s3.amazonaws.com/17312616/316333524-2ae4d51a-1aae-45b9-86ae-75d01eb6e446.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240330%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240330T142920Z&X-Amz-Expires=300&X-Amz-Signature=495bf212080644ae564812b083550ba24ab45f3a19d0bab466ca2eed5095bce3&X-Amz-SignedHeaders=host&actor_id=80763916&key_id=0&repo_id=302721467">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanxshu&label=Profile%20views&color=0e75b6&style=flat" alt="priyanxshu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanXshu&label=Profile%20views&color=36363b&style=flat" alt="priyanxshu" /> </p>
 
 - 🌱 I’m currently learning **React and Node**
 
